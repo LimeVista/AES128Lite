@@ -1,4 +1,4 @@
-# AES 128 Lite for Java 
+# AES 128 Lite for Java [![](https://jitpack.io/v/LimeVista/AES128Lite.svg)](https://jitpack.io/#LimeVista/AES128Lite)
 对SHA-128、Hash 算法进行简单封装，方便使用
 
 ## How to
